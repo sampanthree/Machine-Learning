@@ -1,7 +1,6 @@
 # Machine-Learning
 * [In English](https://github.com/Jack-Cherish/Machine-Learning/blob/master/README-eng.md "悬停显示")<br>
 
-原创文章每周最少两篇，**后续最新文章**会在[【公众号】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)首发，视频[【B站】](https://space.bilibili.com/331507846)首发，大家可以加我[【微信】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)进**交流群**，技术交流或提意见都可以，欢迎**Star**！
 
 <p align="center">
   <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
@@ -15,7 +14,7 @@
 	
 ### 文章首发声明
 
-* 文章在自己的公众号和个人网站首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的个人网站：http://cuijiahua.com/
+http://cuijiahua.com/
 
 ## 第二章：kNN（k-邻域算法）
 
@@ -142,7 +141,7 @@
 | :------  | :--------: | :--------: |
 | 嘿，来聚个类！| [个人网站](https://cuijiahua.com/blog/2021/04/ml-14.html) | [公众号](https://mp.weixin.qq.com/s/oxB5icj8KOfFja8XTHf7jg) |
 
-更多精彩，敬请期待！
+
 
 <a name="微信"></a>  <a name="公众号"></a>
 
