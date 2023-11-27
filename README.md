@@ -139,7 +139,7 @@ http://cuijiahua.com/
 
 |   文章   |  个人网站  |    公众号    |
 | :------  | :--------: | :--------: |
-| 嘿，来聚个类！| [个人网站](https://cuijiahua.com/blog/2021/04/ml-14.html) | [公众号](https://mp.weixin.qq.com/s/oxB5icj8KOfFja8XTHf7jg) |
+
 
 
 
